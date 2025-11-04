@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 
 export default function App() {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen w-full bg-[#060312] text-white">
       <Hero />
       <CharacterCards />
       <QuoteCarousel />
